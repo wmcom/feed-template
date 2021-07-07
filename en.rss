@@ -1,0 +1,55 @@
+        
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Daily Horoscope - WeMystic</title>
+    <atom:link href="https://www.wemystic.com/horoscope-daily.rss" rel="self" type="application/rss+xml" />
+    <link>https://www.wemystic.com/</link>
+    <description>Light, Life and Balance!</description>
+    <lastBuildDate>WW, DD MMM YYYY 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+
+    <image>
+      <url>https://assets.wemystic.com/wmcom/2020/01/logoWM_500x500-100x100.png</url>
+      <title>Daily Horoscope - WeMystic</title>
+      <link>https://www.wemystic.com/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+    <item>
+      <title>Daily Horoscope. Today&#8217;s predictions</title>
+      <link>https://www.wemystic.com/daily-horoscope-DD-MM-YYYY/</link>
+      <pubDate>WW, DD MMM YYYY 00:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[WeMystic's editorial team]]>
+      </dc:creator>
+      <category>
+        <![CDATA[Astrology]]>
+      </category>
+      <category>
+        <![CDATA[Daily Horoscope]]>
+      </category>
+
+      <guid isPermaLink="true">https://www.wemystic.com/daily-horoscope-DD-MM-YYYY/</guid>
+      <description>
+        <![CDATA[
+<img src="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" width="1" height="1" style="display:none" />
+Here, you can find out more about the daily Horoscope. Everyday, we bring you the forecast for your zodiac sign.
+        ]]>
+      </description>
+      <content:encoded>
+      <![CDATA[
+Looking for your Daily Horoscope? Everyday, WeMystic will bring you a brief summary with the most important of the general forecast, for each sign, according to the current planetary alignments.
+Here’s the Daily Horoscope for the 12 zodiac signs: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces.
+      ]]>
+      </content:encoded>
+      <media:content url="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" />
+    </item>
+
+  </channel>
+</rss>
+
+    
