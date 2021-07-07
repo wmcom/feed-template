@@ -36,15 +36,11 @@
       <guid isPermaLink="true">https://www.wemystic.com/daily-horoscope-DD-MM-YYYY/</guid>
       <description>
         <![CDATA[
-<img src="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" width="1" height="1" style="display:none" />
-Here, you can find out more about the daily Horoscope. Everyday, we bring you the forecast for your zodiac sign.
-        ]]>
+        <img src="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" width="1" height="1" style="display:none" />
+        Good morning! What is the forecast for today? Here's your Free Daily Horoscope ❤️🍀💰]]>
       </description>
       <content:encoded>
-      <![CDATA[
-Looking for your Daily Horoscope? Everyday, WeMystic will bring you a brief summary with the most important of the general forecast, for each sign, according to the current planetary alignments.
-Here’s the Daily Horoscope for the 12 zodiac signs: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius and Pisces.
-      ]]>
+      <![CDATA[Good morning! What is the forecast for today? Here's your Free Daily Horoscope ❤️🍀💰]]>
       </content:encoded>
       <media:content url="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" />
     </item>
