@@ -36,13 +36,13 @@
       <guid isPermaLink="true">https://www.wemystic.com/daily-horoscope-DD-MM-YYYY/</guid>
       <description>
         <![CDATA[
-        <img src="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" width="1" height="1" style="display:none" />
+        <img src="https://mkt.wemystic.net/design/banners/wmen/daily-horoscope/wmen-daily-horoscope.jpg" width="1" height="1" style="display:none" />
         Good morning! What is the forecast for today? Here's your Free Daily Horoscope:]]>
       </description>
       <content:encoded>
       <![CDATA[Good morning! What is the forecast for today? Here's your Free Daily Horoscope:]]>
       </content:encoded>
-      <media:content url="https://assets.wemystic.com/wmcom/2021/06/wmen-dailyhoroscope-mobile.jpg" />
+      <media:content url="https://mkt.wemystic.net/design/banners/wmen/daily-horoscope/wmen-daily-horoscope.jpg" />
     </item>
 
   </channel>
