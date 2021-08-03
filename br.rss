@@ -36,13 +36,13 @@
       <guid isPermaLink="true">https://www.wemystic.com.br/horoscopo-dia-DD-MM-YYYY/</guid>
       <description>
         <![CDATA[
-        <img src="https://mkt.wemystic.net/design/landings/wmbr/home/wmbr-horoscopo-do-dia-desktop-1.jpg" width="1" height="1" style="display:none" />
-        Saiba o que os astros reservam para você neste dia.]]>
+        <img src="https://assets-br.wemystic.com.br/20210802152900/horoscopo_dia_br.jpg" width="1" height="1" style="display:none" />
+        O que será que os astros revelam pra você, hoje?<br>Clique aqui para saber o seu horóscopo do dia!]]>
       </description>
       <content:encoded>
-      <![CDATA[Saiba o que os astros reservam para você neste dia.]]>
+      <![CDATA[O que será que os astros revelam pra você, hoje?<br>Clique aqui para saber o seu horóscopo do dia!]]>
       </content:encoded>
-      <media:content url="https://mkt.wemystic.net/design/landings/wmbr/home/wmbr-horoscopo-do-dia-desktop-1.jpg" />
+      <media:content url="https://assets-br.wemystic.com.br/20210802152900/horoscopo_dia_br.jpg" />
     </item>
 
   </channel>
