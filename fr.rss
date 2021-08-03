@@ -36,13 +36,13 @@
       <guid isPermaLink="true">https://www.wemystic.fr/horoscope-du-jour-DD-MM-YYYY/</guid>
       <description>
         <![CDATA[
-        <img src="https://mkt.wemystic.net/design/landings/home/wmfr-horoscope-jour-desktop.jpg" width="1" height="1" style="display:none" />
+        <img src="https://assets-fr.wemystic.fr/20210802153433/horoscope_jour.jpg" width="1" height="1" style="display:none" />
         Amour, travail, santé, argent… Toutes les prédictions pour savoir ce que vous réserve votre journée.]]>
       </description>
       <content:encoded>
       <![CDATA[Amour, travail, santé, argent… Toutes les prédictions pour savoir ce que vous réserve votre journée.]]>
       </content:encoded>
-      <media:content url="https://mkt.wemystic.net/design/landings/home/wmfr-horoscope-jour-desktop.jpg" />
+      <media:content url="https://assets-fr.wemystic.fr/20210802153433/horoscope_jour.jpg" />
     </item>
 
   </channel>
