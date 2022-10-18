@@ -37,10 +37,10 @@
       <description>
         <![CDATA[
         <img src="https://mkt.wemystic.net/design/banners/wmen/daily-horoscope/wmen-daily-horoscope.jpg" width="1" height="1" style="display:none" />
-        Good morning! What is the forecast for today? Here's your Free Daily Horoscope:]]>
+        Read today's free daily horoscope for all zodiac signs. Learn what the day has in store for you with wemystic.com!]]>
       </description>
       <content:encoded>
-      <![CDATA[Good morning! What is the forecast for today? Here's your Free Daily Horoscope:]]>
+      <![CDATA[Read today's free daily horoscope for all zodiac signs. Learn what the day has in store for you with wemystic.com!]]>
       </content:encoded>
       <media:content url="https://mkt.wemystic.net/design/banners/wmen/daily-horoscope/wmen-daily-horoscope.jpg" />
     </item>
