@@ -36,16 +36,14 @@
       <guid isPermaLink="true">https://www.wemystic.com/es/horoscopo-de-hoy-DD-MM-YYYY/</guid>
       <description>
         <![CDATA[
-        <img src="https://assets.wemystic.com/wmcom/2021/02/horoscopo-de-hoy-1024x536.jpg" width="1" height="1" style="display:none" />
+        <img src="https://assets.wemystic.com/wmcom/2021/08/wmes-horoscopo-hoy.jpeg" width="1" height="1" style="display:none" />
         Todas las previsiones del Horóscopo de Hoy para el amor, el dinero y la salud.]]>
       </description>
       <content:encoded>
       <![CDATA[Todas las previsiones del Horóscopo de Hoy para el amor, el dinero y la salud.]]>
       </content:encoded>
-      <media:content url="https://assets.wemystic.com/wmcom/2021/02/horoscopo-de-hoy-1024x536.jpg" />
+      <media:content url="https://assets.wemystic.com/wmcom/2021/08/wmes-horoscopo-hoy.jpeg" />
     </item>
 
   </channel>
 </rss>
-
-    
